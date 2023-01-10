@@ -1,3 +1,18 @@
 body {
-background-color: darkgray;
+background-color: rgb(201, 198, 241);
+}
+#busyPixelMedia{
+  font-family: 'Courier New', Courier, monospace;
+  border-width: 5px; border-style: dotted; border-color: brown;
+}
+#orcuttWinslow{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-width: 10px; border-style: groove; border-color: chartreuse;
+}
+#cargill{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 15px double gold
+}
+h2{
+  color: rgb(110, 13, 13)
 }
